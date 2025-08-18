@@ -4,9 +4,11 @@ En este archivo voy recopilando los comandos que más se utilizan en Git
 
 
 ## 1. Configuración inicial de Git
-
+Ver la version de Git
+```bash
+git -v
+```
 Configura tu nombre y correo abriendo GitBash o en Terminal/Bash en VSCode:
-
 ```bash
 git config --global user.name "Tu Nombre" 
 ```
