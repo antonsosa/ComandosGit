@@ -5,12 +5,19 @@ En este archivo voy recopilando los comandos que más se utilizan en Git
   Ve al sitio web oficial de Git: https://git-scm.com/
   
   -Información de licencia: Haz clic en Next.
+  
   -Seleccionar componentes: Deja las opciones por defecto marcadas. Es importante que Git Bash y Git GUI estén seleccionados. Git Bash es una terminal para ejecutar comandos de Git. Haz clic en Next.
+  
   -Seleccionar carpeta de instalación: Generalmente se recomienda dejar la ruta por defecto. Haz clic en Next.
+  
   -Seleccionar el editor por defecto para Git: Aquí puedes elegir tu editor de código preferido, como Visual Studio Code. Asegúrate de que VS Code esté instalado previamente.
+  
   -Ajustar el nombre de la rama inicial: Deja la opción por defecto que dice Let Git decide (Dejar que Git decida). Esto usará la rama main, que es el estándar actual. Haz clic en Next.
+  
   -Ajustar tu PATH: Elige la opción Git from the command line and also from 3rd-party software. Esta es la opción más recomendada, ya que te permite usar Git desde cualquier terminal, incluyendo la de VS Code.
+  
   -Usar la biblioteca de cifrado SSL/TLS: Deja la opción por defecto Use the OpenSSL library.
+  
   -Configurar las terminaciones de línea de checkout: Usa la opción por defecto Checkout Windows-style, commit Unix-style line endings.
   -Configurar el emulador de terminal para Git Bash: Deja la opción por defecto Use MinTTY (the default terminal of MSYS2).
   -Opciones adicionales: Deja las opciones por defecto activadas. Haz clic en Install.
