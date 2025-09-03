@@ -19,7 +19,9 @@ En este archivo voy recopilando los comandos que más se utilizan en Git
   -Usar la biblioteca de cifrado SSL/TLS: Deja la opción por defecto Use the OpenSSL library.
   
   -Configurar las terminaciones de línea de checkout: Usa la opción por defecto Checkout Windows-style, commit Unix-style line endings.
+  
   -Configurar el emulador de terminal para Git Bash: Deja la opción por defecto Use MinTTY (the default terminal of MSYS2).
+  
   -Opciones adicionales: Deja las opciones por defecto activadas. Haz clic en Install.
 
 Una vez que la instalación termine, haz clic en Finish.
